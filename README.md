@@ -51,8 +51,8 @@ curl -sSL https://install.python-poetry.org | python3 -
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/restaurant-chatbot.git
-cd restaurant-chatbot
+git clone https://github.com/kirudhi-samridh/nuggets-zomato.git
+cd nuggets-zomato
 ```
 
 3. Install dependencies using Poetry:
@@ -62,12 +62,12 @@ poetry install
 
 4. Set up environment variables:
 ```bash
-cp .env.template .env
+cp .env.dev .env
 # Edit .env with your configuration
 ```
 
 Required environment variables:
-- `GROQ_API_KEY`: For LLM-based query decomposition
+- `GROQ_API_KEY`: For LLM-based query decomposition and chat completion
 - `MONGODB_URI`: For conversation storage (defaults to "mongodb://localhost:27017")
 
 5. Install external dependencies:
@@ -84,35 +84,12 @@ poetry run run-scraper
 
 ### Running the Chatbot
 ```bash
-poetry run run-chatbot
+poetry run streamlit run run-chatbot.py
 ```
 
 ### Running the Complete Application
 ```bash
-poetry run restaurant-chatbot
-```
-
-## Development
-
-### Activating the Poetry Environment
-```bash
-poetry shell
-```
-
-### Running Tests
-```bash
-poetry run pytest
-```
-
-### Code Formatting
-```bash
-poetry run black .
-poetry run isort .
-```
-
-### Type Checking
-```bash
-poetry run mypy .
+poetry run streamlit run restaurant-chatbot.py
 ```
 
 ## Features
