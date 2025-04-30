@@ -1,0 +1,919 @@
+{
+  "restaurant_info": {
+    "name": "Kailash Parbat",
+    "address": "Not Available",
+    "phone": "Not Available",
+    "email": null,
+    "website": "https://www.kailashparbatgroup.com/",
+    "cuisine": [
+      "Indian"
+    ]
+  },
+  "menu_items": [
+    {
+      "name": "MANGO &",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "FENNEL LASSI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "CHILLI GUAVA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "= FRESH LIME WATER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "NIMBU PAANI !",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "CUTTING CHAI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PATIYALA LASSI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "FRESH LIME SODA — NIMBU SODA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PAAN MOJJITO",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "BOTTLE SODA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "COLD COFFEE WITH ICE CREAM",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "ICE LEMON TEA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MASALA JALJEERA / MASALA COKE",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MADRAS COFFEE / NESCAFE",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MINERAL WATER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "€2@ PAPDI CHAAT",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PANI PURI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "TIKKI CHAAT",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "SEV PURI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KP CHAAT PLATTER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "; PAV BHAJI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "BORIVALI KI DABELI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "@® AAMCHI MUMBAI SANDWICH",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "TUK TUK",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KURKURE BHINDI FRIES",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MINI NAAN BOMB",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "FRENCH FRIES",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "IDL! SAMBAR",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MEDU VADA SAMBAR",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "IDLI VADA SAMBAR",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PLAIN DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MASALA DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "GHEE DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MYSORE MASALA DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "SET DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "GHEE MASALA DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PODI DOSA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PLAIN UTHAPPAM",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "ONION UTHAPPAM",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "ONION & TOMATO UTHAPPAM",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "DO RUKHA KHUMB",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "P3 - PERI PERI PANEER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "VEG CHESSY SHEEKH",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MIRCHIWALE ALOO TIKKA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KP KEBAB PLATTER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "{2 SPICY CRISPY POTATOES SCHEZWAN HAKKA NOODLES",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "“ PANEER CHILLI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "VEG MANCHURIAN",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "GOBI MANCHURIAN",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PANEER TIKKA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "LABABDAR",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "DAL TADKA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PALAK PANEER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "DAL MAKHANI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PANEER KHURCHAN",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "SABZ KADAI/ SABZ JALFREZI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "VEG CHILLI MILLI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "SABZ AUR METHI KI SABZI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PINDI CHOLE MASALA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "TAKA TAK MUSHROOM MASALA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "BHINDI ALOO MIRCH MASALA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "VEG KADAI / PANEER KADAI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KHAAS KHICHDI /",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PALAK KHICHDI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "€2@ VEG DUM BIRYANI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KP SPL. CHAPATI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "TANDOORI ROTI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "LACHEDDAR PARATHA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "ASSORTED ROTI PLATTER",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KULCHA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PLAIN CURD",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "PAPAD",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MASALA PAPAD",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MALAI DAHI RAITA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "FRESH GREEN SALAD",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "JAMUN E JANNAT",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "KULFI FALOODA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "ROYAL FALOODA",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "MALAI KULFI / MALAI RABDI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "BENGALI MITHAI RASMALAI",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "HOT BROWNIE WITH VANILLA ICECREAM",
+      "description": "Parsed from PDF",
+      "price": 0.0,
+      "category": "From PDF",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    }
+  ],
+  "operating_hours": {},
+  "special_features": {
+    "delivery": false,
+    "takeout": false,
+    "reservations": false,
+    "outdoor_seating": false,
+    "wheelchair_accessible": false,
+    "parking": false,
+    "wifi": false,
+    "happy_hour": false,
+    "live_music": false,
+    "kids_friendly": false,
+    "alcohol_served": false
+  }
+}

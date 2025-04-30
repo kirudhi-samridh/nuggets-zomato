@@ -1,0 +1,282 @@
+{
+  "restaurant_info": {
+    "name": "Thalappakatti",
+    "address": "Address not available",
+    "phone": "Phone not available",
+    "email": "feedback@thalappakatti.com",
+    "website": "https://thalappakatti.com",
+    "cuisine": [
+      "Indian",
+      "South indian"
+    ]
+  },
+  "menu_items": [
+    {
+      "name": "Aatukal Soup Paya Soup",
+      "description": "",
+      "price": 0.0,
+      "category": "Soup",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Milagu Soup",
+      "description": "",
+      "price": 0.0,
+      "category": "Soup",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot and Sour Chicken Soup",
+      "description": "",
+      "price": 0.0,
+      "category": "Soup",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot and Sour Veg Soup",
+      "description": "",
+      "price": 0.0,
+      "category": "Soup",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Mutton Milagu Soup",
+      "description": "",
+      "price": 0.0,
+      "category": "Soup",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Gobi Manchurian",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Thalappakatti Paneer Biriyani",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Butter Chicken Masala",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Varuval Masala",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Dindigul Nattu Kozhi Kulambu Gravy",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Egg Masala",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Kadai Chicken Masala",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Kadai Paneer",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Kadai Veg",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "mutton masala",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "naan combo non veg",
+      "description": "",
+      "price": 0.0,
+      "category": "Side",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "naan combo veg",
+      "description": "",
+      "price": 0.0,
+      "category": "Side",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "roti nonveg combo",
+      "description": "",
+      "price": 0.0,
+      "category": "Side",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "roti veg combo",
+      "description": "",
+      "price": 0.0,
+      "category": "Side",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "butter naan",
+      "description": "",
+      "price": 0.0,
+      "category": "Side",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "CUDDALORE - PONDICHERRY",
+      "description": "",
+      "price": 0.0,
+      "category": "Entree",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "bread halwa",
+      "description": "",
+      "price": 0.0,
+      "category": "Side",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    }
+  ],
+  "operating_hours": {},
+  "special_features": {
+    "delivery": true,
+    "takeout": true,
+    "reservations": false,
+    "outdoor_seating": false,
+    "wheelchair_accessible": false,
+    "parking": false,
+    "wifi": false,
+    "happy_hour": false,
+    "live_music": false,
+    "kids_friendly": false,
+    "alcohol_served": false
+  }
+}

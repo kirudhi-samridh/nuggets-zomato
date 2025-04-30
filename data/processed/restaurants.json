@@ -1,0 +1,3780 @@
+[
+  {
+    "restaurant_info": {
+      "name": "Thalappakatti",
+      "address": "Address not available",
+      "phone": "Phone not available",
+      "email": "feedbackthalappakatticom",
+      "website": "https://thalappakatti.com",
+      "cuisine": [
+        "Indian",
+        "South indian"
+      ]
+    },
+    "menu_items": [
+      {
+        "name": "Aatukal Soup Paya Soup",
+        "description": "",
+        "price": 0.0,
+        "category": "Soup",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Milagu Soup",
+        "description": "",
+        "price": 0.0,
+        "category": "Soup",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot and Sour Chicken Soup",
+        "description": "",
+        "price": 0.0,
+        "category": "Soup",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot and Sour Veg Soup",
+        "description": "",
+        "price": 0.0,
+        "category": "Soup",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Mutton Milagu Soup",
+        "description": "",
+        "price": 0.0,
+        "category": "Soup",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Gobi Manchurian",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Thalappakatti Paneer Biriyani",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Butter Chicken Masala",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Varuval Masala",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Dindigul Nattu Kozhi Kulambu Gravy",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Egg Masala",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Kadai Chicken Masala",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Kadai Paneer",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Kadai Veg",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "mutton masala",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "naan combo non veg",
+        "description": "",
+        "price": 0.0,
+        "category": "Side",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "naan combo veg",
+        "description": "",
+        "price": 0.0,
+        "category": "Side",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "roti nonveg combo",
+        "description": "",
+        "price": 0.0,
+        "category": "Side",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "roti veg combo",
+        "description": "",
+        "price": 0.0,
+        "category": "Side",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "butter naan",
+        "description": "",
+        "price": 0.0,
+        "category": "Side",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CUDDALORE - PONDICHERRY",
+        "description": "",
+        "price": 0.0,
+        "category": "Entree",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "bread halwa",
+        "description": "",
+        "price": 0.0,
+        "category": "Side",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      }
+    ],
+    "operating_hours": {},
+    "special_features": {
+      "delivery": true,
+      "takeout": true,
+      "reservations": false,
+      "outdoor_seating": false,
+      "wheelchair_accessible": false,
+      "parking": false,
+      "wifi": false
+    }
+  },
+  {
+    "restaurant_info": {
+      "name": "Paakashala",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://paakashala.com/",
+      "cuisine": [
+        "Vegetarian",
+        "South Indian"
+      ]
+    },
+    "menu_items": [
+      {
+        "name": "IDLI",
+        "description": "Soft steamed rice cakes made from a batter of fermented rice and black lentils",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VADA",
+        "description": "Deep-fried lentil donuts seasoned with spices",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KESARI BATH",
+        "description": "A sweet semolina dessert enriched with ghee saffron and garnished with cashews",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KHARA BATH",
+        "description": "Semolina spiced with mustard seeds curry leaves and vegetables",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PONGAL",
+        "description": "A savoury rice and lentil porridge seasoned with aromatic spices ghee and garnished with cashews",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "POORI SAAGU",
+        "description": "Fluffy deep-fried bread poori served with a flavourful South Indian vegetable stew saagu featuring potatoes carrots peas and spices",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BONDA SOUP",
+        "description": "Lentil dumplings in a special broth featuring lentils black pepper seeds vegetables tamarind  spices",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BANANA BUNS",
+        "description": "Soft freshly baked bread rolls made with banana premium flour yeast and a touch of honey for a delicate sweetness",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "AKKI ROTTI",
+        "description": "Rice flour water salt and a blend of finely chopped vegetables pan-fried to golden perfection",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MADDUR VADA",
+        "description": "Crispy lentil fritter with rice flour semolina onions curry leaves and a hint of spices deep-fried to perfection",
+        "price": 0.0,
+        "category": "Snacks  Thindi",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PLAIN DOSE",
+        "description": "A thin fermented rice and urad dal crepe served with coconut chutney and tangy sambar",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MASALA DOSE",
+        "description": "A thin rice crepe filled with spiced potato served with coconut chutney and tangy sambar",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "OPEN BUTTER MASALA DOSE",
+        "description": "Thin rice crepe filled with spiced mashed potatoes butter and garnished with cilantro and coconut chutney",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "RAVA DOSE",
+        "description": "A fermented semolina batter crisped to perfection served with coconut chutney and tangy sambar",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SET DOSE",
+        "description": "Soft and fluffy rice and urad dal pancakes served in a set of three with onion and carrot toppings",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PUDI DOSE",
+        "description": "Dose with a spiced lentil powder spread made from urad dal chana dal and various spices",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANEER MASALA DOSE",
+        "description": "Dosa filled with a savory mixture of Indian cottage cheese paneer spices and herbs",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CHEESE MASALA DOSE",
+        "description": "Fermented rice and urad dal batter stuffed with a flavourful spiced potato filling and topped with a decadent layer of melted cheese",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ONION DOSE",
+        "description": "Dosa with a generous topping of finely chopped onions and seasoned with spices",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "NEER DOSE",
+        "description": "Thin delicate dosa made from rice batter typically served with a coconut chutney",
+        "price": 0.0,
+        "category": "DOSE",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "COFFEE",
+        "description": "Finely ground coffee beans brewed with hot water",
+        "price": 0.0,
+        "category": "HOT BEVERAGES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "TEA",
+        "description": "A blend of high-quality tea leaves steeped in hot water",
+        "price": 0.0,
+        "category": "HOT BEVERAGES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MASALA TEA",
+        "description": "Tea infused with aromatic spices like cardamom cinnamon and cloves",
+        "price": 0.0,
+        "category": "HOT BEVERAGES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SPL ORGANIC JAGGERY COFFEE",
+        "description": "Coffee sweetened with organic jaggery a natural sweetener",
+        "price": 0.0,
+        "category": "HOT BEVERAGES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "HORLICKS",
+        "description": "A malted milk powder drink made with hot milk providing a wholesome and comforting beverage",
+        "price": 0.0,
+        "category": "HOT BEVERAGES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CREAM OF MUSHROOM",
+        "description": "Fresh mushrooms cream onions garlic vegetable broth butter and seasoning",
+        "price": 0.0,
+        "category": "SOUPS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "HOT  SOUR",
+        "description": "Bamboo shoots tofu wood ear fungus vinegar soy sauce chili and a mix of vegetables in a tangy broth",
+        "price": 0.0,
+        "category": "SOUPS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SWEET CORN VEG",
+        "description": "Sweet corn kernels mixed vegetables vegetable broth soy sauce and a hint of ginger and garlic",
+        "price": 0.0,
+        "category": "SOUPS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CREAM OF PALAK",
+        "description": "Spinach cream onions garlic vegetable broth butter and aromatic spices",
+        "price": 0.0,
+        "category": "SOUPS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG CLEAR SOUP",
+        "description": "Clear vegetable broth with a variety of finely chopped vegetables herbs and spices",
+        "price": 0.0,
+        "category": "SOUPS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG SHEEK KABAB",
+        "description": "Mix of minced vegetables spices and gram flour skewered and grilled to perfection",
+        "price": 0.0,
+        "category": "INDIAN STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "HARA BHARA TIKKA",
+        "description": "Blend of spinach peas and potatoes seasoned with aromatic spices shaped into kababs and cooked until golden",
+        "price": 0.0,
+        "category": "INDIAN STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MUSHROOM TIKKA",
+        "description": "Fresh mushrooms marinated in a spiced yogurt mixture skewered and tandoor-grilled for a smoky flavor",
+        "price": 0.0,
+        "category": "INDIAN STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MALAI PANEER TIKKA",
+        "description": "Cubes of paneer indian cottage cheese marinated in a creamy mixture of yogurt cream and spices then grilled to perfection",
+        "price": 0.0,
+        "category": "INDIAN STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "TANDOORI GOBI",
+        "description": "Cauliflower florets marinated in a spicy tandoori mixture and roasted in the urn-shaped oven for a flavorful bite",
+        "price": 0.0,
+        "category": "INDIAN STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GOBI MANCHURI",
+        "description": "Marinate cauliflower florets in a seasoned batter  deep-fry to perfection and toss with chilli Manchurian sauce",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANEER MANCHURI",
+        "description": "Cottage cheese tossed in a flavourful blend of soy sauce ginger garlic tomato sauce and green onions creating a delightful Indo-Chinese fusion dish",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BABY CORN MANCHURI",
+        "description": "Tender baby corn coated in a zesty batter deep-fried to golden perfection and tossed in a tangy Manchurian sauce made with soy sauce ginger garlic and a hint of sweetness",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MUSHROOM MANCHURI",
+        "description": "Tender mushrooms tossed in a flavourful blend of soy sauce ginger garlic tomato sauce and green onions creating a delightful Indo-Chinese fusion dish",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GOBI CHILLI",
+        "description": "Marinated Cauliflower florets in seasoned batter perfectly deep-fried and generously coated in a flavourful manchurian sauce",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GOBI PEPPER DRY",
+        "description": "Cauliflower florets marinated in batter and deep-fried and tossed in soy sauce black pepper  green onions",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BABY CORN 65",
+        "description": "Succulent baby corn marinated in a spicy mix deep-fried to a crispy texture and garnished with curry leaves green chilies and a dash of lemon for a zingy and aromatic experience",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MUSHROOM PEPPER DRY",
+        "description": "Tender mushrooms sautéed with vibrant bell peppers tossed in spices and finished with a hint of cracked black pepper for a bold and flavourful explosion",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CRISPY BABYCORN",
+        "description": "Tender babycorn coated in a delicate batter deep-fried to golden perfection",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG BALL MANCHURI",
+        "description": "Vegetable balls immersed in a savory Manchurian gravy delivering a rich and satisfying taste",
+        "price": 0.0,
+        "category": "CHINESE STARTERS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ALOO GOBI",
+        "description": "Fresh cauliflower and potatoes squtéed with aromatic spices",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ALOO JEERA DRY",
+        "description": "Potatoes tossed with cumin seeds creating a flavourful dry dish",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ALOO METHI",
+        "description": "Potatoes cooked with fenugreek leaves delivering a delightful herbal twist",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ALOO MUTTER",
+        "description": "Potatoes and peas in a spiced tomato-based gravy",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BHINDI FRY",
+        "description": "Crispy fried okra seasoned with Indian spices",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAL MAKHANI",
+        "description": "Black lentils and kidney beans simmered in a rich creamy tomato sauce",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAL PALAK",
+        "description": "Lentils combined with spinach creating a nutritious and flavourful dish",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KADAI PANEER",
+        "description": "Paneer Indian cottage cheese and bell peppers in a spiced tomato gravy",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PAAKASHALA SPL CURRY",
+        "description": "A rich blend of Amul butter paneer and a medley of mixed vegetables crafted from luscious tomato puree finely chopped onions creamy cashew nuts with spices",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG SHAHI PANEER",
+        "description": "Assorted vegetables with paneer in a royal creamy sauce",
+        "price": 0.0,
+        "category": "NORTH INDIAN CURRY",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ROTI",
+        "description": "A classic unleavened Indian bread made with whole wheat flour water and a pinch of salt",
+        "price": 0.0,
+        "category": "ROTI KA PARIWAR",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "NAAN",
+        "description": "Soft leavened bread crafted from refined flour yogurt yeast and a touch of ghee",
+        "price": 0.0,
+        "category": "ROTI KA PARIWAR",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KULCHA",
+        "description": "A delightful variation of naan featuring all-purpose flour yogurt and baking powder for a lighter texture",
+        "price": 0.0,
+        "category": "ROTI KA PARIWAR",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BUTTER ROTI",
+        "description": "Our traditional roti generously brushed with clarified butter ghee for a rich and flavourful experience",
+        "price": 0.0,
+        "category": "ROTI KA PARIWAR",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GARLIC NAAN",
+        "description": "Naan infused with minced garlic offering a savory and aromatic twist to your dining experience",
+        "price": 0.0,
+        "category": "ROTI KA PARIWAR",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG FRIED RICE",
+        "description": "A blend of jasmine rice colourful mixed vegetables scrambled tofu and a dash of soy sauce wok-tossed to perfection",
+        "price": 0.0,
+        "category": "CHINESE RICE  NOODLES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG NOODLES",
+        "description": "Thin eggless noodles stir-fried with an assortment of crisp vegetables and seasoned with a light soy-based sauce",
+        "price": 0.0,
+        "category": "CHINESE RICE  NOODLES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANEER NOODLES",
+        "description": "Soft paneer chunks mingling with eggless noodles crisp vegetables and a subtle blend of spices",
+        "price": 0.0,
+        "category": "CHINESE RICE  NOODLES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MUSHROOM FRIED RICE",
+        "description": "Fragrant jasmine rice stir-fried with plump mushrooms vibrant vegetables and a touch of soy sauce creating a savory and satisfying dish",
+        "price": 0.0,
+        "category": "CHINESE RICE  NOODLES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG SCHEZWAN NOODLES",
+        "description": "Eggless noodles bathed in a bold Schezwan sauce combined with a medley of vegetables",
+        "price": 0.0,
+        "category": "CHINESE RICE  NOODLES",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SAMOSA",
+        "description": "Triangular pastry pockets filled with spiced potatoes peas and Indian spices deep-fried until golden brown",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAHI PURI",
+        "description": "Hollow puris filled with spiced potatoes chickpeas and topped with yogurt tamarind chutney and sev",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CHEESE MASALA PAV",
+        "description": "Mixed vegetables cooked in a flavorful spice blend served with buttered buns and topped with melted cheese",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PAPADI CHAAT",
+        "description": "Crispy papadis topped with potatoes chickpeas yogurt and various chutneys",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SEV PURI",
+        "description": "Flat puris topped with spiced mashed potatoes onions sev and chutneys",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANEER PAV",
+        "description": "Mixed vegetables with paneer Indian cottage cheese served with buttered buns and garnished with cilantro",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PAANI PURI",
+        "description": "Hollow puris filled with a mixture of flavoured water tamarind chutney potatoes and chickpeas",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SEV BATATA PURI",
+        "description": "Crisp puris filled with spiced potatoes topped with sev thin gram flour noodles and various chutneys",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAHI BALLA",
+        "description": "Soft lentil dumplings soaked in yogurt and topped with tamarind chutney and spices",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAHI SAMOSA CHAAT",
+        "description": "Crisp samosas topped with yogurt chutneys and spices for a delightful chaat experience",
+        "price": 0.0,
+        "category": "CHAATS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GULAB JAMOON",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup flavoured with cardamom and rose water and topped with pistachios",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CARROT HALWA",
+        "description": "Finely grated carrots cooked with ghee milk sugar and cardamom garnished with chopped nuts",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CHANDRAHARA",
+        "description": "Flaky pastry made from ail-purpose flour ghee and a touch of sugar deep-fried to golden perfection",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "HAL BAI",
+        "description": "Creamy yogurt-based curry with fenugreek leaves mustard seeds and aromatic Indian spices",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FRUIT MIXTURE",
+        "description": "Fresh seasonal fruits tossed in a light citrus dressing",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GULKAND ICE CREAM",
+        "description": "Rose petal-infused ice cream with the sweet touch of gulkand",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GUD BUD ICECREAM",
+        "description": "A unique treat featuring jaggery-infused ice cream with a hint of cardamom",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FRUIT SALAD PLAIN",
+        "description": "A refreshing medley of seasonal fruits for a light and healthy option",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BANANA SPLIT ICE CREAM",
+        "description": "A classic dessert with bananas ice cream and indulgent toppings",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FALOODA",
+        "description": "A rich and creamy dessert drink with layers of falooda noodles basil seeds and ice cream",
+        "price": 0.0,
+        "category": "DESSERTS",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      }
+    ],
+    "operating_hours": {},
+    "special_features": {
+      "delivery": true,
+      "takeout": true,
+      "reservations": true,
+      "outdoor_seating": false,
+      "wheelchair_accessible": false,
+      "parking": false,
+      "wifi": false
+    }
+  },
+  {
+    "restaurant_info": {
+      "name": "Flurys",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.flurys.com/",
+      "cuisine": [
+        "Bakery",
+        "Confectionery",
+        "Cafe"
+      ]
+    },
+    "menu_items": [
+      {
+        "name": "Chocolate Truffle Cake",
+        "description": "Chocolate eggless sponge cake layered with rich and creamy chocolate truffle Allergens -Gluten Milk",
+        "price": 1200.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Black Forest Cake",
+        "description": "A German chocolate sponge cake with one layer of truffle and two layers of cherry fresh cream",
+        "price": 1200.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chocolate Cake",
+        "description": "A chocolate sponge cake filled with luscious chocolate buttercream Allergens -Gluten Egg Milk",
+        "price": 900.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Pineapple Cake",
+        "description": "A delightful combination of fluffy vanilla sponge cake juicy cherry and pineapple chunks topped with fresh cream  grated white chocolate",
+        "price": 1200.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Strawberry Cake",
+        "description": "A delicate cake made with strawberries and filled with smooth creamy strawberry buttercream frosting",
+        "price": 900.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Red Velvet Cake",
+        "description": "Red velvet sponge cake filled with layers of luscious mascarpone cream",
+        "price": 1400.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Pineapple Buttercream Cake",
+        "description": "A delicate cake made with smooth creamy pineapple buttercream frosting",
+        "price": 900.0,
+        "category": "Cakes",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Rum Ball",
+        "description": "Iconic rich rum-flavored chocolate ball coated with a smooth layer of chocolate fondant",
+        "price": 150.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chocolate Boat",
+        "description": "Boat-shaped tart filled with luscious truffle and topped with decadent chocolate fondant",
+        "price": 160.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Choco Cube Pastry",
+        "description": "A traditional pastry crafted using a chocolate sponge and creamy chocolate buttercream topped with a luscious chocolate fondant",
+        "price": 170.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Strawberry Cube Pastry",
+        "description": "A bite-sized cube pastry made with strawberry flavored butter cream pastry",
+        "price": 150.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Pineapple Cube Pastry",
+        "description": "Pineapple flavored butter cream pastry",
+        "price": 150.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Almond Cube Pastry",
+        "description": "Almond-flavored butter cream pastry",
+        "price": 140.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Cream Roll",
+        "description": "Vanilla Butter Cream filled in a Crispy Puff Pastry",
+        "price": 120.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Baba Cake",
+        "description": "A cylindrical-shaped traditional cake richly infused with a mix of flavorful dry fruits for a delectable taste and texture",
+        "price": 130.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Choco Short Bread",
+        "description": "Chocolate pastry made with a biscuit base filled with smooth and creamy chocolate buttercream",
+        "price": 150.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Lemon Tart",
+        "description": "A tangy and sweet dessert made with a buttery pastry crust filled with zesty lemon curd",
+        "price": 150.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Black Forest Pastry",
+        "description": "Chocolate and cherry flavored fresh cream cream pastry",
+        "price": 250.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Pineapple Cream Pastry",
+        "description": "Pineapple flavored fresh cream cream pastry",
+        "price": 250.0,
+        "category": "Pastries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Choco Box 9 Pieces",
+        "description": "Chocolate Truffle MilkDarkWhite",
+        "price": 550.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Choco Box 12 Pieces",
+        "description": "12 pcs of assortedDark milk white chocolate on a gift box",
+        "price": 800.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Single Origin Choco Box",
+        "description": "Assorted dark milk and white premium chocolate gift box",
+        "price": 1200.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Pralines Choco Jar",
+        "description": "Delicious caramelized nuts clusters dipped in milk chocolate",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Coated Cashew Choco Jar",
+        "description": "A dessert that blends the buttery and crunchy taste of cashews with the rich and creamy flavor of dark chocolate",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Dark Truffle Choco Jar",
+        "description": "A luxurious and creamy confection made from dark chocolate and heavy cream",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Honey Balls Choco Jar",
+        "description": "Crunchy cashew nuts coated in honey chocolate creating a blend of sweet and nutty",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "White Chocolate Coated Pistachio",
+        "description": "Pistachio nut coated with white chocolate",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Sugarfree Almond Rock Choco Jar",
+        "description": "Almond coated with sugarfree dark chocolate",
+        "price": 500.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "White Choco Slab",
+        "description": "White Choclate Slab",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Milk Choco Slab",
+        "description": "Milk chocolate slab",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Dark Choco Slab",
+        "description": "Dark Choco Slab",
+        "price": 450.0,
+        "category": "Chocolates",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Cheese straw",
+        "description": "Crispy and savory cheese flavored puff pastry",
+        "price": 130.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Vegetable Patty",
+        "description": "Mixed vegetables baked in a crispy and golden puff pastry",
+        "price": 130.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken patty",
+        "description": "Savory puff pastry filled with chicken filling and baked till crispy",
+        "price": 150.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Mutton Patty",
+        "description": "Mutton filled patties",
+        "price": 170.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tikka Patty",
+        "description": "Lightly spiced Tandoori Chicken Tikka filled in Puff",
+        "price": 150.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Capsicum Envelope",
+        "description": "Chicken and Capsicum filled in a envelope shaped Puff",
+        "price": 150.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Mutton Chop 1 Pcs",
+        "description": "Spicy mince mutton cutlets",
+        "price": 150.0,
+        "category": "Savouries",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Double Chocolate Chip Cookies Jar",
+        "description": "Crisp cookies baked with chunks of chocolate chips",
+        "price": 200.0,
+        "category": "Cookies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Coconut Cookies",
+        "description": "Delicate and sweet French shortbread cookies made with coconut",
+        "price": 200.0,
+        "category": "Cookies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "description": "Chunks of chocolate chips baked to crisp cookies",
+        "price": 200.0,
+        "category": "Cookies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Domino Sablee Cookies",
+        "description": "Crunchy buttery handmade cookies",
+        "price": 200.0,
+        "category": "Cookies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spiral Sablee Cookies",
+        "description": "Crunchy buttery handmade cookies",
+        "price": 200.0,
+        "category": "Cookies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Raisin and Spice Cookies Jar",
+        "description": "Chewy and flavorful cookies packed with plump raisins and warm spices",
+        "price": 200.0,
+        "category": "Cookies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "White Chocolate and Cranberry Brownie",
+        "description": "Rich buttery white chocolate dry cake with cranberry",
+        "price": 130.0,
+        "category": "Brownies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Eggless Brownie",
+        "description": "Rich buttery eggless chocolate dry cake filled with chunks of Walnut",
+        "price": 130.0,
+        "category": "Brownies",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Walnut Brownie",
+        "description": "Rich buttery chocolate dry cake filled with chunks of Walnut",
+        "price": 130.0,
+        "category": "Brownies",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      }
+    ],
+    "operating_hours": {},
+    "special_features": {
+      "delivery": true,
+      "takeout": true,
+      "reservations": false,
+      "outdoor_seating": false,
+      "wheelchair_accessible": false,
+      "parking": false,
+      "wifi": false
+    }
+  },
+  {
+    "restaurant_info": {
+      "name": "Smokin Joes Pizza",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.smokinjoespizza.com/",
+      "cuisine": [
+        "Italian",
+        "Pizza",
+        "Fast Food"
+      ]
+    },
+    "menu_items": [
+      {
+        "name": "Plain Cheese Pizza Regular",
+        "description": "Regular size of Plain Cheese Pizza",
+        "price": 130.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Plain Cheese Pizza Medium",
+        "description": "Medium size of Plain Cheese Pizza",
+        "price": 250.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Plain Cheese Pizza Large",
+        "description": "Large size of Plain Cheese Pizza",
+        "price": 390.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Plain Cheese Pizza Maha",
+        "description": "Maha size of Plain Cheese Pizza",
+        "price": 1000.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Margherita Pizza Regular",
+        "description": "Regular size of Margherita Pizza",
+        "price": 130.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Margherita Pizza Medium",
+        "description": "Medium size of Margherita Pizza",
+        "price": 250.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Margherita Pizza Large",
+        "description": "Large size of Margherita Pizza",
+        "price": 390.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Margherita Pizza Maha",
+        "description": "Maha size of Margherita Pizza",
+        "price": 1000.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Ultimate Vegetarian Pizza Regular",
+        "description": "Regular size of Ultimate Vegetarian Pizza",
+        "price": 195.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Ultimate Vegetarian Pizza Medium",
+        "description": "Medium size of Ultimate Vegetarian Pizza",
+        "price": 350.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Ultimate Vegetarian Pizza Large",
+        "description": "Large size of Ultimate Vegetarian Pizza",
+        "price": 500.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Ultimate Vegetarian Pizza Maha",
+        "description": "Maha size of Ultimate Vegetarian Pizza",
+        "price": 1400.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Veggie Surprise Pizza Regular",
+        "description": "Regular size of Veggie Surprise Pizza",
+        "price": 195.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Veggie Surprise Pizza Medium",
+        "description": "Medium size of Veggie Surprise Pizza",
+        "price": 350.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Veggie Surprise Pizza Large",
+        "description": "Large size of Veggie Surprise Pizza",
+        "price": 500.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Veggie Surprise Pizza Maha",
+        "description": "Maha size of Veggie Surprise Pizza",
+        "price": 1400.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Crisp n Lite Pizza Regular",
+        "description": "Regular size of Crisp n Lite Pizza",
+        "price": 195.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Crisp n Lite Pizza Medium",
+        "description": "Medium size of Crisp n Lite Pizza",
+        "price": 350.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Crisp n Lite Pizza Large",
+        "description": "Large size of Crisp n Lite Pizza",
+        "price": 500.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Crisp n Lite Pizza Maha",
+        "description": "Maha size of Crisp n Lite Pizza",
+        "price": 1400.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Veg Pizza Regular",
+        "description": "Regular size of Spicy Veg Pizza",
+        "price": 195.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Veg Pizza Medium",
+        "description": "Medium size of Spicy Veg Pizza",
+        "price": 350.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Veg Pizza Large",
+        "description": "Large size of Spicy Veg Pizza",
+        "price": 500.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Veg Pizza Maha",
+        "description": "Maha size of Spicy Veg Pizza",
+        "price": 1400.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Roast Chicken Pizza Regular",
+        "description": "Regular size of Roast Chicken Pizza",
+        "price": 205.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Roast Chicken Pizza Medium",
+        "description": "Medium size of Roast Chicken Pizza",
+        "price": 385.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Roast Chicken Pizza Large",
+        "description": "Large size of Roast Chicken Pizza",
+        "price": 550.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Roast Chicken Pizza Maha",
+        "description": "Maha size of Roast Chicken Pizza",
+        "price": 1600.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot Chicken Pizza Regular",
+        "description": "Regular size of Hot Chicken Pizza",
+        "price": 205.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot Chicken Pizza Medium",
+        "description": "Medium size of Hot Chicken Pizza",
+        "price": 385.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot Chicken Pizza Large",
+        "description": "Large size of Hot Chicken Pizza",
+        "price": 550.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot Chicken Pizza Maha",
+        "description": "Maha size of Hot Chicken Pizza",
+        "price": 1600.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tikka Pizza Regular",
+        "description": "Regular size of Chicken Tikka Pizza",
+        "price": 330.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tikka Pizza Medium",
+        "description": "Medium size of Chicken Tikka Pizza",
+        "price": 575.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tikka Pizza Large",
+        "description": "Large size of Chicken Tikka Pizza",
+        "price": 800.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tikka Pizza Maha",
+        "description": "Maha size of Chicken Tikka Pizza",
+        "price": 2300.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Butter Chicken Pizza Regular",
+        "description": "Regular size of Butter Chicken Pizza",
+        "price": 330.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Butter Chicken Pizza Medium",
+        "description": "Medium size of Butter Chicken Pizza",
+        "price": 575.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Butter Chicken Pizza Large",
+        "description": "Large size of Butter Chicken Pizza",
+        "price": 800.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Butter Chicken Pizza Maha",
+        "description": "Maha size of Butter Chicken Pizza",
+        "price": 2300.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilly Chicken Pizza Regular",
+        "description": "Regular size of Chilly Chicken Pizza",
+        "price": 330.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilly Chicken Pizza Medium",
+        "description": "Medium size of Chilly Chicken Pizza",
+        "price": 575.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilly Chicken Pizza Large",
+        "description": "Large size of Chilly Chicken Pizza",
+        "price": 800.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilly Chicken Pizza Maha",
+        "description": "Maha size of Chilly Chicken Pizza",
+        "price": 2300.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Schezwan Chicken Pizza Regular",
+        "description": "Regular size of Schezwan Chicken Pizza",
+        "price": 330.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Schezwan Chicken Pizza Medium",
+        "description": "Medium size of Schezwan Chicken Pizza",
+        "price": 575.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Schezwan Chicken Pizza Large",
+        "description": "Large size of Schezwan Chicken Pizza",
+        "price": 800.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Schezwan Chicken Pizza Maha",
+        "description": "Maha size of Schezwan Chicken Pizza",
+        "price": 2300.0,
+        "category": "Pizza",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Monday Special Paneer Tikka",
+        "description": "Special offer for Monday",
+        "price": 0.0,
+        "category": "Special Offers",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Tuesday Special Farmhouse",
+        "description": "Special offer for Tuesday",
+        "price": 0.0,
+        "category": "Special Offers",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Wednesday Special Tandoori Chicken",
+        "description": "Special offer for Wednesday",
+        "price": 0.0,
+        "category": "Special Offers",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Thursday Special Veggie Paradise",
+        "description": "Special offer for Thursday",
+        "price": 0.0,
+        "category": "Special Offers",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Friday Special Chicken 65",
+        "description": "Special offer for Friday",
+        "price": 0.0,
+        "category": "Special Offers",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Plain Cheese Delite",
+        "description": "Plain Cheese Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Golden Corn Delite",
+        "description": "Golden Corn Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Ultimate Veg Delite",
+        "description": "Ultimate Veg Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Jalapeno Delite",
+        "description": "Jalapeno Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Hot Chicken Delite",
+        "description": "Hot Chicken Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Barbequed Chicken Delite",
+        "description": "Barbequed Chicken Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tikka Delite",
+        "description": "Chicken Tikka Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilly Chicken Delite",
+        "description": "Chilly Chicken Delite",
+        "price": 0.0,
+        "category": "Pizza Delite",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Garlic Bread",
+        "description": "Garlic Bread",
+        "price": 0.0,
+        "category": "Garlic Breads",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Garlic Bread With Cheese",
+        "description": "Garlic Bread With Cheese",
+        "price": 0.0,
+        "category": "Garlic Breads",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilly Cheese Toast",
+        "description": "Chilly Cheese Toast",
+        "price": 0.0,
+        "category": "Garlic Breads",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Corn And Jalapeno Garlic Bread",
+        "description": "Corn And Jalapeno Garlic Bread",
+        "price": 0.0,
+        "category": "Garlic Breads",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Butter Garlic Bread Sticks",
+        "description": "Butter Garlic Bread Sticks",
+        "price": 0.0,
+        "category": "Garlic Breads",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Kheema Garlic Bread",
+        "description": "Chicken Kheema Garlic Bread",
+        "price": 0.0,
+        "category": "Garlic Breads",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Cheesy Veggie Sandwich",
+        "description": "Cheesy Veggie Sandwich",
+        "price": 0.0,
+        "category": "Pizza Sandwiches",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Vegetarian Delight Sandwich",
+        "description": "Vegetarian Delight Sandwich",
+        "price": 0.0,
+        "category": "Pizza Sandwiches",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Paneer Tikka Sandwich",
+        "description": "Paneer Tikka Sandwich",
+        "price": 0.0,
+        "category": "Pizza Sandwiches",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Honey Pepper Chicken Sandwich",
+        "description": "Honey Pepper Chicken Sandwich",
+        "price": 0.0,
+        "category": "Pizza Sandwiches",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Chicken Sandwich",
+        "description": "Spicy Chicken Sandwich",
+        "price": 0.0,
+        "category": "Pizza Sandwiches",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Bacon N Cheese Sandwich",
+        "description": "Bacon N Cheese Sandwich",
+        "price": 0.0,
+        "category": "Pizza Sandwiches",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Cheesy Dip",
+        "description": "Cheesy Dip",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Potato Wedges",
+        "description": "Potato Wedges",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "French Friess",
+        "description": "French Friess",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Nachos with Cheese  Salsa",
+        "description": "Nachos with Cheese  Salsa",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Jalapenos Cheese Poppers",
+        "description": "Jalapenos Cheese Poppers",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BBQ Chicken Wings",
+        "description": "BBQ Chicken Wings",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Cheese  Jalapeno Kievs",
+        "description": "Chicken Cheese  Jalapeno Kievs",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Tender",
+        "description": "Chicken Tender",
+        "price": 0.0,
+        "category": "Super Side Orders",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chocolate Mousse",
+        "description": "Chocolate Mousse",
+        "price": 0.0,
+        "category": "Desserts",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chocolava Cake",
+        "description": "Chocolava Cake",
+        "price": 0.0,
+        "category": "Desserts",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Classic Cold Coffee",
+        "description": "Classic Cold Coffee",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Mint Classic Mojito",
+        "description": "Mint Classic Mojito",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chilli Guava Mojito",
+        "description": "Chilli Guava Mojito",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Green Apple Mojito",
+        "description": "Green Apple Mojito",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chocolate Milkshake",
+        "description": "Chocolate Milkshake",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Delight Mango MilkShake",
+        "description": "Delight Mango MilkShake",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Strawberry Milkshake",
+        "description": "Strawberry Milkshake",
+        "price": 0.0,
+        "category": "Beverages",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Cheesy Veg Prankie",
+        "description": "Cheesy Veg Prankie",
+        "price": 0.0,
+        "category": "Prankie",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Paneer Makhni Prankie",
+        "description": "Paneer Makhni Prankie",
+        "price": 0.0,
+        "category": "Prankie",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Potato Prankie",
+        "description": "Spicy Potato Prankie",
+        "price": 0.0,
+        "category": "Prankie",
+        "dietary_info": {
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Herb chicken Prankie",
+        "description": "Herb chicken Prankie",
+        "price": 0.0,
+        "category": "Prankie",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Chicken Makhni Prankie",
+        "description": "Chicken Makhni Prankie",
+        "price": 0.0,
+        "category": "Prankie",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "Spicy Chicken Prankie",
+        "description": "Spicy Chicken Prankie",
+        "price": 0.0,
+        "category": "Prankie",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      }
+    ],
+    "operating_hours": {},
+    "special_features": {
+      "delivery": true,
+      "takeout": true,
+      "reservations": false,
+      "outdoor_seating": false,
+      "wheelchair_accessible": false,
+      "parking": false,
+      "wifi": false
+    }
+  },
+  {
+    "restaurant_info": {
+      "name": "Kailash Parbat",
+      "address": "Not Available",
+      "phone": "Not Available",
+      "email": "",
+      "website": "https://www.kailashparbatgroup.com/",
+      "cuisine": [
+        "Indian"
+      ]
+    },
+    "menu_items": [
+      {
+        "name": "MANGO ",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FENNEL LASSI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CHILLI GUAVA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": " FRESH LIME WATER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "NIMBU PAANI ",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "CUTTING CHAI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PATIYALA LASSI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FRESH LIME SODA  NIMBU SODA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PAAN MOJJITO",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BOTTLE SODA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "COLD COFFEE WITH ICE CREAM",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ICE LEMON TEA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MASALA JALJEERA  MASALA COKE",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MADRAS COFFEE  NESCAFE",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MINERAL WATER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "2 PAPDI CHAAT",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANI PURI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "TIKKI CHAAT",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SEV PURI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KP CHAAT PLATTER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": " PAV BHAJI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BORIVALI KI DABELI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": " AAMCHI MUMBAI SANDWICH",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "TUK TUK",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KURKURE BHINDI FRIES",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MINI NAAN BOMB",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FRENCH FRIES",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "IDL SAMBAR",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MEDU VADA SAMBAR",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "IDLI VADA SAMBAR",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PLAIN DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MASALA DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GHEE DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MYSORE MASALA DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SET DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GHEE MASALA DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PODI DOSA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PLAIN UTHAPPAM",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ONION UTHAPPAM",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ONION  TOMATO UTHAPPAM",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DO RUKHA KHUMB",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "P3 - PERI PERI PANEER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG CHESSY SHEEKH",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MIRCHIWALE ALOO TIKKA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KP KEBAB PLATTER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "2 SPICY CRISPY POTATOES SCHEZWAN HAKKA NOODLES",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": " PANEER CHILLI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG MANCHURIAN",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "GOBI MANCHURIAN",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANEER TIKKA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "LABABDAR",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAL TADKA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PALAK PANEER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "DAL MAKHANI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PANEER KHURCHAN",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SABZ KADAI SABZ JALFREZI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG CHILLI MILLI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "SABZ AUR METHI KI SABZI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PINDI CHOLE MASALA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "TAKA TAK MUSHROOM MASALA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BHINDI ALOO MIRCH MASALA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "VEG KADAI  PANEER KADAI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KHAAS KHICHDI ",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PALAK KHICHDI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "2 VEG DUM BIRYANI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KP SPL CHAPATI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "TANDOORI ROTI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "LACHEDDAR PARATHA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ASSORTED ROTI PLATTER",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KULCHA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PLAIN CURD",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "PAPAD",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MASALA PAPAD",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MALAI DAHI RAITA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "FRESH GREEN SALAD",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "JAMUN E JANNAT",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "KULFI FALOODA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "ROYAL FALOODA",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "MALAI KULFI  MALAI RABDI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "BENGALI MITHAI RASMALAI",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      },
+      {
+        "name": "HOT BROWNIE WITH VANILLA ICECREAM",
+        "description": "Parsed from PDF",
+        "price": 0.0,
+        "category": "From PDF",
+        "dietary_info": {
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false
+        }
+      }
+    ],
+    "operating_hours": {},
+    "special_features": {
+      "delivery": false,
+      "takeout": false,
+      "reservations": false,
+      "outdoor_seating": false,
+      "wheelchair_accessible": false,
+      "parking": false,
+      "wifi": false
+    }
+  }
+]

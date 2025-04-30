@@ -1,0 +1,431 @@
+{
+  "restaurant_info": {
+    "name": "Flurys",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.flurys.com/",
+    "cuisine": [
+      "Bakery",
+      "Confectionery",
+      "Cafe"
+    ]
+  },
+  "menu_items": [
+    {
+      "name": "Chocolate Truffle Cake",
+      "description": "Chocolate eggless sponge cake, layered with rich and creamy chocolate truffle. Allergens -Gluten, Milk",
+      "price": 1200.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false,
+        "gluten_free": false,
+        "vegetarian": true
+      }
+    },
+    {
+      "name": "Black Forest Cake",
+      "description": "A German chocolate sponge cake with one layer of truffle and two layers of cherry fresh cream.",
+      "price": 1200.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Chocolate Cake",
+      "description": "A chocolate sponge cake filled with luscious chocolate buttercream. Allergens -Gluten, Egg, Milk",
+      "price": 900.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Pineapple Cake",
+      "description": "A delightful combination of fluffy vanilla sponge cake, juicy cherry and pineapple chunks topped with fresh cream & grated white chocolate.",
+      "price": 1200.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Strawberry Cake",
+      "description": "A delicate cake made with strawberries and filled with smooth, creamy strawberry buttercream frosting.",
+      "price": 900.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Red Velvet Cake",
+      "description": "Red velvet sponge cake, filled with layers of luscious mascarpone cream.",
+      "price": 1400.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Pineapple Buttercream Cake",
+      "description": "A delicate cake made with smooth, creamy pineapple buttercream frosting.",
+      "price": 900.0,
+      "category": "Cakes",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Rum Ball",
+      "description": "Iconic rich, rum-flavored chocolate ball, coated with a smooth layer of chocolate fondant.",
+      "price": 150.0,
+      "category": "Pastries",
+      "dietary_info": {}
+    },
+    {
+      "name": "Chocolate Boat",
+      "description": "Boat-shaped tart filled with luscious truffle and topped with decadent chocolate fondant.",
+      "price": 160.0,
+      "category": "Pastries",
+      "dietary_info": {}
+    },
+    {
+      "name": "Choco Cube Pastry",
+      "description": "A traditional pastry crafted using a chocolate sponge and creamy chocolate buttercream, topped with a luscious chocolate fondant.",
+      "price": 170.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Strawberry Cube Pastry",
+      "description": "A bite-sized cube pastry made with strawberry flavored butter cream pastry.",
+      "price": 150.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Pineapple Cube Pastry",
+      "description": "Pineapple flavored butter cream pastry.",
+      "price": 150.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Almond Cube Pastry",
+      "description": "Almond-flavored butter cream pastry.",
+      "price": 140.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Cream Roll",
+      "description": "Vanilla Butter Cream filled in a Crispy Puff Pastry.",
+      "price": 120.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Baba Cake",
+      "description": "A cylindrical-shaped traditional cake, richly infused with a mix of flavorful dry fruits for a delectable taste and texture.",
+      "price": 130.0,
+      "category": "Pastries",
+      "dietary_info": {}
+    },
+    {
+      "name": "Choco Short Bread",
+      "description": "Chocolate pastry made with a biscuit base, filled with smooth and creamy chocolate buttercream.",
+      "price": 150.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Lemon Tart",
+      "description": "A tangy and sweet dessert made with a buttery pastry crust, filled with zesty lemon curd.",
+      "price": 150.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Black Forest Pastry",
+      "description": "Chocolate and cherry flavored fresh cream cream pastry.",
+      "price": 250.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Pineapple Cream Pastry",
+      "description": "Pineapple flavored fresh cream cream pastry.",
+      "price": 250.0,
+      "category": "Pastries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Choco Box [9 Pieces]",
+      "description": "Chocolate Truffle Milk/Dark/White,",
+      "price": 550.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Choco Box [12 Pieces]",
+      "description": "12 pcs of assorted(Dark, milk, white) chocolate on a gift box,",
+      "price": 800.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Single Origin Choco Box",
+      "description": "Assorted dark, milk and white premium chocolate gift box.",
+      "price": 1200.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Pralines Choco Jar",
+      "description": "Delicious caramelized nuts clusters, dipped in milk chocolate.",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Coated Cashew Choco Jar",
+      "description": "A dessert that blends the buttery and crunchy taste of cashews with the rich and creamy flavor of dark chocolate.",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Dark Truffle Choco Jar",
+      "description": "A luxurious and creamy confection made from dark chocolate and heavy cream.",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Honey Balls Choco Jar",
+      "description": "Crunchy cashew nuts coated in honey chocolate, creating a blend of sweet and nutty.",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {}
+    },
+    {
+      "name": "White Chocolate Coated Pistachio",
+      "description": "Pistachio nut coated with white chocolate",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {}
+    },
+    {
+      "name": "Sugarfree Almond Rock Choco Jar",
+      "description": "Almond coated with sugarfree dark chocolate,",
+      "price": 500.0,
+      "category": "Chocolates",
+      "dietary_info": {}
+    },
+    {
+      "name": "White Choco Slab",
+      "description": "White Choclate Slab",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {}
+    },
+    {
+      "name": "Milk Choco Slab",
+      "description": "Milk chocolate slab.",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Dark Choco Slab",
+      "description": "Dark Choco Slab.",
+      "price": 450.0,
+      "category": "Chocolates",
+      "dietary_info": {}
+    },
+    {
+      "name": "Cheese straw",
+      "description": "Crispy and savory cheese flavored puff pastry.",
+      "price": 130.0,
+      "category": "Savouries",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Vegetable Patty",
+      "description": "Mixed vegetables baked in a crispy and golden puff pastry.",
+      "price": 130.0,
+      "category": "Savouries",
+      "dietary_info": {}
+    },
+    {
+      "name": "Chicken patty",
+      "description": "Savory puff pastry filled with chicken filling and baked till crispy.",
+      "price": 150.0,
+      "category": "Savouries",
+      "dietary_info": {
+        "vegetarian": false
+      }
+    },
+    {
+      "name": "Mutton Patty",
+      "description": "Mutton filled patties.",
+      "price": 170.0,
+      "category": "Savouries",
+      "dietary_info": {
+        "vegetarian": false
+      }
+    },
+    {
+      "name": "Chicken Tikka Patty",
+      "description": "Lightly spiced Tandoori Chicken Tikka filled in Puff.",
+      "price": 150.0,
+      "category": "Savouries",
+      "dietary_info": {
+        "vegetarian": false
+      }
+    },
+    {
+      "name": "Chicken Capsicum Envelope",
+      "description": "Chicken and Capsicum filled in a envelope shaped Puff.",
+      "price": 150.0,
+      "category": "Savouries",
+      "dietary_info": {
+        "vegetarian": false
+      }
+    },
+    {
+      "name": "Mutton Chop (1 Pcs)",
+      "description": "Spicy mince mutton cutlets",
+      "price": 150.0,
+      "category": "Savouries",
+      "dietary_info": {
+        "vegetarian": false
+      }
+    },
+    {
+      "name": "Double Chocolate Chip Cookies Jar",
+      "description": "Crisp cookies baked with chunks of chocolate chips.",
+      "price": 200.0,
+      "category": "Cookies",
+      "dietary_info": {}
+    },
+    {
+      "name": "Coconut Cookies",
+      "description": "Delicate and sweet French shortbread cookies made with coconut.",
+      "price": 200.0,
+      "category": "Cookies",
+      "dietary_info": {}
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "description": "Chunks of chocolate chips baked to crisp cookies.",
+      "price": 200.0,
+      "category": "Cookies",
+      "dietary_info": {}
+    },
+    {
+      "name": "Domino Sablee Cookies",
+      "description": "Crunchy buttery handmade cookies",
+      "price": 200.0,
+      "category": "Cookies",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Spiral Sablee Cookies",
+      "description": "Crunchy buttery handmade cookies",
+      "price": 200.0,
+      "category": "Cookies",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Raisin and Spice Cookies Jar",
+      "description": "Chewy and flavorful cookies packed with plump raisins and warm spices.",
+      "price": 200.0,
+      "category": "Cookies",
+      "dietary_info": {}
+    },
+    {
+      "name": "White Chocolate and Cranberry Brownie",
+      "description": "Rich buttery white chocolate dry cake with cranberry.",
+      "price": 130.0,
+      "category": "Brownies",
+      "dietary_info": {
+        "vegan": false
+      }
+    },
+    {
+      "name": "Eggless Brownie",
+      "description": "Rich buttery eggless chocolate dry cake filled with chunks of Walnut.",
+      "price": 130.0,
+      "category": "Brownies",
+      "dietary_info": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+    {
+      "name": "Walnut Brownie",
+      "description": "Rich buttery chocolate dry cake filled with chunks of Walnut.",
+      "price": 130.0,
+      "category": "Brownies",
+      "dietary_info": {
+        "vegan": false
+      }
+    }
+  ],
+  "operating_hours": {},
+  "special_features": {
+    "delivery": true,
+    "takeout": true,
+    "reservations": false,
+    "outdoor_seating": false,
+    "wheelchair_accessible": false,
+    "parking": false,
+    "wifi": false,
+    "happy_hour": false,
+    "live_music": false,
+    "kids_friendly": false,
+    "alcohol_served": false
+  }
+}

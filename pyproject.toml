@@ -1,0 +1,81 @@
+[tool.poetry]
+name = "restaurant-chatbot"
+version = "1.0.0"
+description = "A Restaurant Data Scraper & RAG-based Chatbot"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+packages = [
+    {include = "chatbot"},
+    {include = "scraper"},
+    {include = "knowledge_base"},
+    {include = "ui"}
+]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+beautifulsoup4 = "^4.12.3"
+requests = "2.31.0"
+scrapy = "2.11.0"
+faiss-cpu = "1.7.4"
+transformers = "4.36.2"
+torch = "2.1.2"
+streamlit = "1.29.0"
+python-dotenv = "1.0.0"
+pydantic = "^2.8.0"
+loguru = "0.7.2"
+tqdm = "4.66.1"
+numpy = ">=1.26.0"
+pandas = "2.1.4"
+scikit-learn = "1.3.2"
+pymongo = "4.6.1"
+llama-index = "^0.12.33"
+llama-index-embeddings-huggingface = "^0.5.3"
+groq = "^0.23.1"
+llama-index-vector-stores-chroma = "^0.4.1"
+chromadb = "^1.0.7"
+pypdf2 = "^3.0.1"
+pytesseract = "^0.3.13"
+pdf2image = "^1.17.0"
+pillow = "<11"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "7.4.3"
+black = "23.12.1"
+isort = "5.13.2"
+mypy = "1.8.0"
+
+[tool.poetry.scripts]
+restaurant-chatbot = "main:main"
+run-scraper = "run_scraper:main"
+run-chatbot = "run_chatbot:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+use_parentheses = true
+line_length = 88
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true 

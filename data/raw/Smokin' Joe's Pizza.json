@@ -1,0 +1,1086 @@
+{
+  "restaurant_info": {
+    "name": "Smokin' Joe's Pizza",
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.smokinjoespizza.com/",
+    "cuisine": [
+      "Italian",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  "menu_items": [
+    {
+      "name": "Plain Cheese Pizza (Regular)",
+      "description": "Regular size of Plain Cheese Pizza",
+      "price": 130.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Plain Cheese Pizza (Medium)",
+      "description": "Medium size of Plain Cheese Pizza",
+      "price": 250.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Plain Cheese Pizza (Large)",
+      "description": "Large size of Plain Cheese Pizza",
+      "price": 390.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Plain Cheese Pizza (Maha)",
+      "description": "Maha size of Plain Cheese Pizza",
+      "price": 1000.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Margherita Pizza (Regular)",
+      "description": "Regular size of Margherita Pizza",
+      "price": 130.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Margherita Pizza (Medium)",
+      "description": "Medium size of Margherita Pizza",
+      "price": 250.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Margherita Pizza (Large)",
+      "description": "Large size of Margherita Pizza",
+      "price": 390.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Margherita Pizza (Maha)",
+      "description": "Maha size of Margherita Pizza",
+      "price": 1000.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Ultimate Vegetarian Pizza (Regular)",
+      "description": "Regular size of Ultimate Vegetarian Pizza",
+      "price": 195.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Ultimate Vegetarian Pizza (Medium)",
+      "description": "Medium size of Ultimate Vegetarian Pizza",
+      "price": 350.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Ultimate Vegetarian Pizza (Large)",
+      "description": "Large size of Ultimate Vegetarian Pizza",
+      "price": 500.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Ultimate Vegetarian Pizza (Maha)",
+      "description": "Maha size of Ultimate Vegetarian Pizza",
+      "price": 1400.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Veggie Surprise Pizza (Regular)",
+      "description": "Regular size of Veggie Surprise Pizza",
+      "price": 195.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Veggie Surprise Pizza (Medium)",
+      "description": "Medium size of Veggie Surprise Pizza",
+      "price": 350.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Veggie Surprise Pizza (Large)",
+      "description": "Large size of Veggie Surprise Pizza",
+      "price": 500.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Veggie Surprise Pizza (Maha)",
+      "description": "Maha size of Veggie Surprise Pizza",
+      "price": 1400.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Crisp n Lite Pizza (Regular)",
+      "description": "Regular size of Crisp n Lite Pizza",
+      "price": 195.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Crisp n Lite Pizza (Medium)",
+      "description": "Medium size of Crisp n Lite Pizza",
+      "price": 350.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Crisp n Lite Pizza (Large)",
+      "description": "Large size of Crisp n Lite Pizza",
+      "price": 500.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Crisp n Lite Pizza (Maha)",
+      "description": "Maha size of Crisp n Lite Pizza",
+      "price": 1400.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Veg Pizza (Regular)",
+      "description": "Regular size of Spicy Veg Pizza",
+      "price": 195.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Veg Pizza (Medium)",
+      "description": "Medium size of Spicy Veg Pizza",
+      "price": 350.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Veg Pizza (Large)",
+      "description": "Large size of Spicy Veg Pizza",
+      "price": 500.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Veg Pizza (Maha)",
+      "description": "Maha size of Spicy Veg Pizza",
+      "price": 1400.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Roast Chicken Pizza (Regular)",
+      "description": "Regular size of Roast Chicken Pizza",
+      "price": 205.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Roast Chicken Pizza (Medium)",
+      "description": "Medium size of Roast Chicken Pizza",
+      "price": 385.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Roast Chicken Pizza (Large)",
+      "description": "Large size of Roast Chicken Pizza",
+      "price": 550.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Roast Chicken Pizza (Maha)",
+      "description": "Maha size of Roast Chicken Pizza",
+      "price": 1600.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot Chicken Pizza (Regular)",
+      "description": "Regular size of Hot Chicken Pizza",
+      "price": 205.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot Chicken Pizza (Medium)",
+      "description": "Medium size of Hot Chicken Pizza",
+      "price": 385.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot Chicken Pizza (Large)",
+      "description": "Large size of Hot Chicken Pizza",
+      "price": 550.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot Chicken Pizza (Maha)",
+      "description": "Maha size of Hot Chicken Pizza",
+      "price": 1600.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Tikka Pizza (Regular)",
+      "description": "Regular size of Chicken Tikka Pizza",
+      "price": 330.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Tikka Pizza (Medium)",
+      "description": "Medium size of Chicken Tikka Pizza",
+      "price": 575.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Tikka Pizza (Large)",
+      "description": "Large size of Chicken Tikka Pizza",
+      "price": 800.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Tikka Pizza (Maha)",
+      "description": "Maha size of Chicken Tikka Pizza",
+      "price": 2300.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Butter Chicken Pizza (Regular)",
+      "description": "Regular size of Butter Chicken Pizza",
+      "price": 330.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Butter Chicken Pizza (Medium)",
+      "description": "Medium size of Butter Chicken Pizza",
+      "price": 575.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Butter Chicken Pizza (Large)",
+      "description": "Large size of Butter Chicken Pizza",
+      "price": 800.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Butter Chicken Pizza (Maha)",
+      "description": "Maha size of Butter Chicken Pizza",
+      "price": 2300.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilly Chicken Pizza (Regular)",
+      "description": "Regular size of Chilly Chicken Pizza",
+      "price": 330.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilly Chicken Pizza (Medium)",
+      "description": "Medium size of Chilly Chicken Pizza",
+      "price": 575.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilly Chicken Pizza (Large)",
+      "description": "Large size of Chilly Chicken Pizza",
+      "price": 800.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilly Chicken Pizza (Maha)",
+      "description": "Maha size of Chilly Chicken Pizza",
+      "price": 2300.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Schezwan Chicken Pizza (Regular)",
+      "description": "Regular size of Schezwan Chicken Pizza",
+      "price": 330.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Schezwan Chicken Pizza (Medium)",
+      "description": "Medium size of Schezwan Chicken Pizza",
+      "price": 575.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Schezwan Chicken Pizza (Large)",
+      "description": "Large size of Schezwan Chicken Pizza",
+      "price": 800.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Schezwan Chicken Pizza (Maha)",
+      "description": "Maha size of Schezwan Chicken Pizza",
+      "price": 2300.0,
+      "category": "Pizza",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Monday Special: Paneer Tikka",
+      "description": "Special offer for Monday",
+      "price": 0.0,
+      "category": "Special Offers",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Tuesday Special: Farmhouse",
+      "description": "Special offer for Tuesday",
+      "price": 0.0,
+      "category": "Special Offers",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Wednesday Special: Tandoori Chicken",
+      "description": "Special offer for Wednesday",
+      "price": 0.0,
+      "category": "Special Offers",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Thursday Special: Veggie Paradise",
+      "description": "Special offer for Thursday",
+      "price": 0.0,
+      "category": "Special Offers",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Friday Special: Chicken 65",
+      "description": "Special offer for Friday",
+      "price": 0.0,
+      "category": "Special Offers",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Plain Cheese Delite",
+      "description": "Plain Cheese Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Golden Corn Delite",
+      "description": "Golden Corn Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Ultimate Veg Delite",
+      "description": "Ultimate Veg Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Jalapeno Delite",
+      "description": "Jalapeno Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Hot Chicken Delite",
+      "description": "Hot Chicken Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Barbequed Chicken Delite",
+      "description": "Barbequed Chicken Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Tikka Delite",
+      "description": "Chicken Tikka Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilly Chicken Delite",
+      "description": "Chilly Chicken Delite",
+      "price": 0.0,
+      "category": "Pizza Delite",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Garlic Bread",
+      "description": "Garlic Bread",
+      "price": 0.0,
+      "category": "Garlic Breads",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Garlic Bread With Cheese",
+      "description": "Garlic Bread With Cheese",
+      "price": 0.0,
+      "category": "Garlic Breads",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilly Cheese Toast",
+      "description": "Chilly Cheese Toast",
+      "price": 0.0,
+      "category": "Garlic Breads",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Corn And Jalapeno Garlic Bread",
+      "description": "Corn And Jalapeno Garlic Bread",
+      "price": 0.0,
+      "category": "Garlic Breads",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Butter Garlic Bread Sticks",
+      "description": "Butter Garlic Bread Sticks",
+      "price": 0.0,
+      "category": "Garlic Breads",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Kheema Garlic Bread",
+      "description": "Chicken Kheema Garlic Bread",
+      "price": 0.0,
+      "category": "Garlic Breads",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Cheesy Veggie Sandwich",
+      "description": "Cheesy Veggie Sandwich",
+      "price": 0.0,
+      "category": "Pizza Sandwiches",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Vegetarian Delight Sandwich",
+      "description": "Vegetarian Delight Sandwich",
+      "price": 0.0,
+      "category": "Pizza Sandwiches",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Paneer Tikka Sandwich",
+      "description": "Paneer Tikka Sandwich",
+      "price": 0.0,
+      "category": "Pizza Sandwiches",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Honey Pepper Chicken Sandwich",
+      "description": "Honey Pepper Chicken Sandwich",
+      "price": 0.0,
+      "category": "Pizza Sandwiches",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Chicken Sandwich",
+      "description": "Spicy Chicken Sandwich",
+      "price": 0.0,
+      "category": "Pizza Sandwiches",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Bacon N Cheese Sandwich",
+      "description": "Bacon N Cheese Sandwich",
+      "price": 0.0,
+      "category": "Pizza Sandwiches",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Cheesy Dip",
+      "description": "Cheesy Dip",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Potato Wedges",
+      "description": "Potato Wedges",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "French Friess",
+      "description": "French Friess",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Nachos with Cheese & Salsa",
+      "description": "Nachos with Cheese & Salsa",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Jalapenos Cheese Poppers",
+      "description": "Jalapenos Cheese Poppers",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "BBQ Chicken Wings",
+      "description": "BBQ Chicken Wings",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken, Cheese & Jalapeno Kievs",
+      "description": "Chicken, Cheese & Jalapeno Kievs",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Tender",
+      "description": "Chicken Tender",
+      "price": 0.0,
+      "category": "Super Side Orders",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chocolate Mousse",
+      "description": "Chocolate Mousse",
+      "price": 0.0,
+      "category": "Desserts",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chocolava Cake",
+      "description": "Chocolava Cake",
+      "price": 0.0,
+      "category": "Desserts",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Classic Cold Coffee",
+      "description": "Classic Cold Coffee",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Mint Classic Mojito",
+      "description": "Mint Classic Mojito",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chilli Guava Mojito",
+      "description": "Chilli Guava Mojito",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Green Apple Mojito",
+      "description": "Green Apple Mojito",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "description": "Chocolate Milkshake",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Delight Mango MilkShake",
+      "description": "Delight Mango MilkShake",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "description": "Strawberry Milkshake",
+      "price": 0.0,
+      "category": "Beverages",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Cheesy Veg Prankie",
+      "description": "Cheesy Veg Prankie",
+      "price": 0.0,
+      "category": "Prankie",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Paneer Makhni Prankie",
+      "description": "Paneer Makhni Prankie",
+      "price": 0.0,
+      "category": "Prankie",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Potato Prankie",
+      "description": "Spicy Potato Prankie",
+      "price": 0.0,
+      "category": "Prankie",
+      "dietary_info": {
+        "vegetarian": true,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Herb chicken Prankie",
+      "description": "Herb chicken Prankie",
+      "price": 0.0,
+      "category": "Prankie",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Chicken Makhni Prankie",
+      "description": "Chicken Makhni Prankie",
+      "price": 0.0,
+      "category": "Prankie",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    },
+    {
+      "name": "Spicy Chicken Prankie",
+      "description": "Spicy Chicken Prankie",
+      "price": 0.0,
+      "category": "Prankie",
+      "dietary_info": {
+        "vegetarian": false,
+        "vegan": false,
+        "gluten_free": false
+      }
+    }
+  ],
+  "operating_hours": {},
+  "special_features": {
+    "delivery": true,
+    "takeout": true,
+    "reservations": false,
+    "outdoor_seating": false,
+    "wheelchair_accessible": false,
+    "parking": false,
+    "wifi": false,
+    "happy_hour": true,
+    "live_music": false,
+    "kids_friendly": true,
+    "alcohol_served": false
+  }
+}
